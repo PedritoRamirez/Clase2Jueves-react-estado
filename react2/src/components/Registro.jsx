@@ -10,6 +10,7 @@ function Registro(){
       {
         alert.mensaje && <h1 style={{color:alert.color}}>{alert.mensaje}</h1>
       }
+      <p>Hecho por Pedro para el commit</p>
     </>
   )
 }
